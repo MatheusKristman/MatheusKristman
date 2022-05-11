@@ -1,7 +1,7 @@
 Eai! Eu sou o Matheus Kristman 👋
 
 - 🔭 Desejo trabalhar com front-end
-- 🌱 Estudando Jquery
+- 🌱 Estudando Node.js
 - 📫 Contato: kristman058@gmail.com
 
 <div>
