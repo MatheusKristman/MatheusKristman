@@ -1,7 +1,7 @@
 Eai! Eu sou o Matheus Kristman 👋
 
 - 🔭 Desejo trabalhar com front-end
-- 🌱 Estudando React JS
+- 🌱 Estudando ReactJS
 - 📫 Contato: kristman058@gmail.com
 
 <div>
