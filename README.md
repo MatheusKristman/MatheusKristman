@@ -2,7 +2,7 @@ Eai! Eu sou o Matheus Kristman 👋
 
 - 🔭 Desejo trabalhar com front-end
 - 🌱 Sempre estudando
-- 📫 Contato: kristman058@gmail.com
+- 📫 Contato: matheuskristman.dev@gmail.com
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusKristman&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
