@@ -1,7 +1,7 @@
 Eai! Eu sou o Matheus Kristman 👋
 
-- 🔭 Desejo trabalhar com front-end
-- 🌱 Sempre estudando
+- 👨‍💻 Desenvolvedor FullStack Freelancer
+- 🌱 Sempre em busca de evolução
 - 📫 Contato: matheuskristman.dev@gmail.com
 - 💁‍♂️ I use neovim btw
 
