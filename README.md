@@ -3,7 +3,6 @@ Eai! Eu sou o Matheus Kristman 👋
 - 👨‍💻 Desenvolvedor FullStack Freelancer
 - 🌱 Sempre em busca de evolução
 - 📫 Contato: matheuskristman.dev@gmail.com
-- 💁‍♂️ I use neovim btw
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusKristman&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
